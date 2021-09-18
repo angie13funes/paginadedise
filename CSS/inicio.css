@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+
+#cuerpo #contenidogeneral #contenido #contenido #tiposdetelas {
+	float: left;
+	width: 46%;
+	font-family: "Times New Roman", Times, serif;
+	margin-top: 15px;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+#cuerpo #contenidogeneral #contenido #contenido #sobrenosotros {
+	float: right;
+	width: 46%;
+	font-family: "Times New Roman", Times, serif;
+	margin-top: 15px;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+#cuerpo #contenidogeneral #contenido #contenido #mayoreo {
+	width: 46%;
+	font-family: "Times New Roman", Times, serif;
+	float: left;
+	margin-top: 15px;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+#cuerpo #contenidogeneral #contenido #contenido #importaciones {
+	float: right;
+	width: 46%;
+	font-family: "Times New Roman", Times, serif;
+	margin-top: 15px;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+#cuerpo #contenidogeneral #contenido #contenido #sobrenosotros p img {
+	width: 40%;
+	float: left;
+	margin-right: 5%;
+	margin-bottom: 4px;
+}
+#cuerpo #contenidogeneral #contenido #contenido #mayoreo p img {
+	width: 40%;
+	float: left;
+	margin-right: 5%;
+	margin-bottom: 10px;
+}
+#cuerpo #contenidogeneral #contenido #contenido #importaciones p img {
+	float: left;
+	width: 40%;
+	margin-right: 5%;
+	margin-bottom: 10px;
+}
+#cuerpo #contenidogeneral #contenido #contenido #tiposdetelas h3 img {
+	width: 40%;
+	float: left;
+	margin-right: 5%;
+	margin-bottom: 10px;
+}
+#cuerpo #contenidogeneral #contenido #contenido #sobrenosotros p img {
+	width: 50%;
+	float: left;
+	margin-right: 5%;
+	margin-bottom: 10px;
+}
+#cuerpo #contenidogeneral #contenido #contenido img {
+	float: left;
+	width: 45%;
+}
+#cuerpo #contenidogeneral #contenido #contenido #tiposdetelas p img {
+	float: left;
+	width: 45%;
+	margin-right: 5%;
+	margin-bottom: 10px;
+}
